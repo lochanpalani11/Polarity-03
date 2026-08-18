@@ -1,0 +1,9 @@
+{
+  "appId": "com.polarity.game",
+  "appName": "Polarity",
+  "webDir": "www",
+  "backgroundColor": "#000000",
+  "android": {
+    "backgroundColor": "#000000"
+  }
+}
