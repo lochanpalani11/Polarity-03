@@ -1,7 +1,8 @@
 # Polarity — Android Studio build
+This is a fun addictive game that I made using AI. This game goes on in a loop and you have to match the color of your ball to the color of the walls in order to go through them.
+The ready to download APK is avialbel in the releases however if you want to build this app inside android studio then the below are the steps on how to do so:
 
-This is a Capacitor project: your game (in `www/`) wrapped as a native
-Android app. You'll need **Node.js** and **Android Studio** installed on
+You'll need **Node.js** and **Android Studio** installed on
 a computer (this can't be done from a phone).
 
 ## 1. Install dependencies
